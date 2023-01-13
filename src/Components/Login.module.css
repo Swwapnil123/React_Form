@@ -1,0 +1,70 @@
+.login {
+    width: 400px;
+    background: #fff; 
+     border: 1px solid #dddfe2; 
+    /* box-shadow: 0 2px 4px rgb(0 0 10 / 64%), 0 8px 16px rgb(0 10 0 / 34%); */
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    margin-left: 350px;
+
+}
+
+.login > form input {
+    border-radius: 20px;
+    border: 2px solid black;
+    outline: none;
+    /* background-color: #1d2129; */
+    color: #1d2129;
+    margin: 2% 0;
+    width: 90%;
+    padding: 12px;
+    font-size: 16px;
+}
+.button_common{
+    margin: 2% 0;
+    width: 90%;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 20px;
+    background-color: #E70B89;
+    color: white;
+}
+
+.forget{
+/* top: 100px; */
+margin-left: 250px;
+/* width: 115px; */
+/* height: 25px; */
+text-decoration: none;
+/* text-align: left; */
+font: normal normal normal 17px/20px Roboto; 
+letter-spacing: 0px;
+color: #E70B89;
+/* opacity: 1; */
+}
+h3{
+    color: black;
+    text-decoration: none;
+
+}
+.img{
+    display: flex;
+    width: 10px;
+    height: 35px;
+    margin-left: 100px;
+    gap: 40px;
+
+}
+p{
+    
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 0.5;
+font-size: 15px;
+}
+h1{
+    margin-left: 480px;
+    color: teal;
+}
